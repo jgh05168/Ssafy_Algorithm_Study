@@ -68,6 +68,15 @@
 * 스터디 시간때는 각 풀이공유나 학습한 개념을 공유
 ### 파일 관리 
 * 파일 : 개인 파일/1주차/문제번호_문제명.py
+### 주차별 문제 주제
+* 수학,자료구조 -> 재귀 -> DP -> 그래프(DFS/BFS) -> 최단경로 -> 이분탐색 -> 분할정복 -> 그리디 -> 완전탐색, 시뮬레이션, 구현 -> 백트랙킹 
+
+### 문제 풀이
+
+|        |                      1                       |                         2                         |                          3                          |                           4                           |                         5                         |                                                    |
+| :----: | :------------------------------------------: | :-----------------------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: | :-----------------------------------------------: | :------------------------------------------------------: |
+| 1주  | [후위 표기식2](https://www.acmicpc.net/problem/1935) | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [N과 M](https://www.acmicpc.net/problem/15650) | [골드바흐의 추측](https://www.acmicpc.net/problem/9020) | [숨바꼭질 6](https://www.acmicpc.net/problem/17087) | [좌표 정렬하기](https://www.acmicpc.net/problem/11650) /[듣보잡](https://www.acmicpc.net/problem/1764) |
+
 ## 4. 학습 사이트
 * [프로그래머스 고득점 kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
 * [백준 코드플러스 알고리즘 기초](https://www.acmicpc.net/workbook/codeplus)
