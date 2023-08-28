@@ -79,6 +79,7 @@
 | 2주  | [재귀함수가 뭔가요? ](https://www.acmicpc.net/problem/17478) | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747#fn1) | [부분수열의 합](https://www.acmicpc.net/problem/1182) | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | [하노이 탑](https://www.acmicpc.net/problem/1914) | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) /[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) |
 | 3주  | [오목 ](https://www.acmicpc.net/problem/2615) | [N과 M(4)](https://www.acmicpc.net/problem/15652) | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | [섬의개수](https://www.acmicpc.net/problem/4963) | [적록색약](https://www.acmicpc.net/problem/10026) | [투에-모스 문자열](https://www.acmicpc.net/problem/18222) /[포도주 시식](https://www.acmicpc.net/problem/2156) |
 | 4주  | [IM 대비 문제집](https://www.acmicpc.net/workbook/view/7091)|
+| 5주  | [센서 ](https://www.acmicpc.net/problem/2212) | [강의실 배정](https://www.acmicpc.net/problem/11000) | [호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278) | [A -> B](https://www.acmicpc.net/problem/16953) | [링크와 스타트](https://www.acmicpc.net/problem/15661) | [완전 이진 트리](https://www.acmicpc.net/problem/9934) /[마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) |
 
 ## 4. 학습 사이트
 * [프로그래머스 고득점 kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
