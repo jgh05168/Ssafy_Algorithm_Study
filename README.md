@@ -58,7 +58,7 @@
 
 <br><br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=markrla)](https://solved.ac/markrla)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seungho4222)](https://solved.ac/seungho4222)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kials1)](https://solved.ac/kials1)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jgh05168)](https://solved.ac/jgh05168)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjaehong)](https://solved.ac/jjaehong)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minwookkim)](https://solved.ac/minwookkim)
