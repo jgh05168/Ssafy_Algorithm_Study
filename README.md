@@ -31,7 +31,7 @@
     </tr>
     <tr height="140px">
         <td align="center" width="130px">
-            <a href="https://github.com/le-monaaa"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/139411503?v=4"/></a>
+            <a href="https://github.com/minwookkim115"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/139411503?v=4"/></a>
             <br />
             <a href="https://github.com/minwookkim115">김민욱
             </a>
@@ -58,6 +58,13 @@
 
 <br><br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=markrla)](https://solved.ac/markrla)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seungho4222)](https://solved.ac/seungho4222)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jgh05168)](https://solved.ac/jgh05168)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjaehong)](https://solved.ac/jjaehong)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minwookkim115)](https://solved.ac/minwookkim115)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=klica123456)](https://solved.ac/klica123456)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yun73)](https://solved.ac/yun73)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=RupertJoo)](https://solved.ac/RupertJoo)
 
 <br><br>
 
