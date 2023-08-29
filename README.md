@@ -56,6 +56,11 @@
 
 </table>
 
+<br><br>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=markrla)](https://solved.ac/markrla)
+
+<br><br>
+
 ## 3. 진행 방식
 
 ### 시간 & 장소
