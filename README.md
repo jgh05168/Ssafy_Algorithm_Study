@@ -93,6 +93,7 @@
 | 4주  | [IM 대비 문제집](https://www.acmicpc.net/workbook/view/7091)|
 | 5주  | [센서 ](https://www.acmicpc.net/problem/2212) | [강의실 배정](https://www.acmicpc.net/problem/11000) | [호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278) | [A -> B](https://www.acmicpc.net/problem/16953) | [링크와 스타트](https://www.acmicpc.net/problem/15661) | [완전 이진 트리](https://www.acmicpc.net/problem/9934) /[마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) |
 | 6주  | [ 카잉 달력 ](https://www.acmicpc.net/problem/6064) | [벽 부수고 이동하기 ](https://www.acmicpc.net/problem/2206) | [로봇 시뮬레이션](https://www.acmicpc.net/problem/2174) | [음식물 피하기](https://www.acmicpc.net/problem/1743) | [ 치즈 ](https://www.acmicpc.net/problem/2638) | [ACM Craft](https://www.acmicpc.net/problem/1005) /[부등호](https://www.acmicpc.net/problem/2529) |
+| 7주  | [ 쿼드 트리](https://www.acmicpc.net/problem/1992) | [동전 ](https://www.acmicpc.net/problem/9084) | [카트 구매하기](https://www.acmicpc.net/problem/11052) | [상어 초등학교 ](https://www.acmicpc.net/problem/21608) | [ 맥주 마시면서 걸어가기 ](https://www.acmicpc.net/problem/9205) | [ 미로만들기 ](https://www.acmicpc.net/problem/2665) /[Puyo Puyo](https://www.acmicpc.net/problem/11559) |
 
 ## 4. 학습 사이트
 * [프로그래머스 고득점 kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
